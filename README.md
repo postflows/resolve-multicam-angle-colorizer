@@ -10,7 +10,7 @@ Detects angles from clip names (Angle 1, Cam2, Video 1, etc.), maps them to Reso
 
 ## Requirements
 
-- DaVinci Resolve 18+
+- DaVinci Resolve 20+ (Studio Version)
 - Open project and timeline
 
 ## Installation
